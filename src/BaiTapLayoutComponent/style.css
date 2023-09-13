@@ -1,0 +1,25 @@
+nav {
+  padding-left: 0  !important;
+  padding-right: 0 !important;  
+}
+.cyberContainer {margin: 0 200px}
+.cyberCarousel {
+   height: 430px;
+  padding: 48px 0;
+}
+.cyberCarousel__title {
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 4rem;
+  text-transform: capitalize;
+}
+.cyberCarousel__intro {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+.card {width: 240px}
+.card img {
+  width: 240px ; 
+  height: 156px ;
+}
